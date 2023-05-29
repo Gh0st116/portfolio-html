@@ -1,7 +1,8 @@
 # Portfolio 
 Hello! Welcome to my portfolio project. I made this website along an Alura course, succesfully making it responsive for smaller screens and learning a lot in the process.
 
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+![image](https://github.com/Gh0st116/portfolio-html/assets/66926881/f2bd84eb-ca88-4ccd-af84-026cf2a0e46b)
+
 
 ### Access the site at https://portfolio-html-gamma.vercel.app/
 
